@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: main.SafeDecDemo
+Class-Path: mysql-connector-java-8.0.23.jar protobuf-java-3.11.4.jar com
+ mons-dbutils-1.7.jar
+

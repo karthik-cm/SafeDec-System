@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="SafeDec-System:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SafeDec_System_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SafeDec-System.jar">
+        <element id="module-output" name="SafeDec-System" />
+      </element>
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.23" />
+      <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.11.4" />
+      <element id="library" level="project" name="Maven: commons-dbutils:commons-dbutils:1.7" />
+    </root>
+  </artifact>
+</component>
